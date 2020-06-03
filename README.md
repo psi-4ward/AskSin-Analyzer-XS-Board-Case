@@ -15,6 +15,8 @@ Der Arduino Nano kommt mit wenig Abstand (ca 1mm) darüber. Auf die Bestückung 
 
 Für das OLED-Display sind die Stifleisten ohne Abstandshalter "verbogen" und angelötet. Der Abstand zwischen der **Oberseite** der OLED-Platine und dem XS Board sollte 4mm betragen. Beide Platinen sollten bündig abschließen.
 
+Als Filament nutzt man am besten Transparent, dann blinken die LEDs hindurch.
+
 
 ## Bilder
 
