@@ -18,6 +18,8 @@ Für das OLED-Display sind die Stifleisten ohne Abstandshalter "verbogen" und an
 
 ## Bilder
 
+![ASA-XS-Board_PCBinCase](./images/ASA-XS-Board_PCBinCase.jpg)
+
 ![ASA-XS-Board_Top](./images/ASA-XS-Board_Top.jpg)
 
 ![ASA-XS-Board_Bottom](./images/ASA-XS-Board_Bottom.jpg)
