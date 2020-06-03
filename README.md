@@ -2,8 +2,9 @@
 
 ![AskSin Analyzer XS Board - Case](./images/ASA-XS-Board_CaseTop.jpg)
 
-* [STL-Datein](./stl) für den 3D-Druck
-* [Fusion 360](./Asksin%20XS%20Board.f3d)
+* [Boden](https://github.com/psi-4ward/AskSin-Analyzer-XS-Board-Case/blob/master/stl/Asksin%20XS%20Board%20-%20Boden.stl)
+* [Deckel mit Display](https://github.com/psi-4ward/AskSin-Analyzer-XS-Board-Case/blob/master/stl/Asksin%20XS%20Board%20-%20Deckel%20mit%20Display.stl)
+* [Fusion 360](https://github.com/psi-4ward/AskSin-Analyzer-XS-Board-Case/raw/master/Asksin%20XS%20Board.f3d)
 
 
 ## Aufbau
@@ -17,13 +18,13 @@ Für das OLED-Display sind die Stifleisten ohne Abstandshalter "verbogen" und an
 
 ## Bilder
 
-![](./images/ASA-XS-Board_Top.jpg)
+![ASA-XS-Board_Top](./images/ASA-XS-Board_Top.jpg)
 
-![](./images/ASA-XS-Board_Bottom.jpg)
+![ASA-XS-Board_Bottom](./images/ASA-XS-Board_Bottom.jpg)
 
-![](./images/ASA-XS-Board_OLEDmount.jpg)
+![ASA-XS-Board_OLEDmount](./images/ASA-XS-Board_OLEDmount.jpg)
 
-![](./images/ASA-XS-Board_Side.jpg)
+![/ASA-XS-Board_Side](./images/ASA-XS-Board_Side.jpg)
 
 
 ## TODO
